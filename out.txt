@@ -1,0 +1,12 @@
+total 8.0K
+-rw-r--r-- 1 oussama oussama  85 Aug 21 19:07 another.php
+-rw-r--r-- 1 oussama oussama   0 Aug 21 18:50 an.TXT
+-rw-r--r-- 1 oussama oussama   0 Aug 21 18:50 aw.PHP
+-rw-r--r-- 1 oussama oussama   0 Aug 21 18:50 file2.php
+-rw-r--r-- 1 oussama oussama 122 Aug 21 19:04 file.php
+-rw-r--r-- 1 oussama oussama   0 Aug 21 18:50 four.txt
+-rw-r--r-- 1 oussama oussama   0 Aug 21 18:50 one.Php
+-rw-r--r-- 1 oussama oussama   0 Aug 21 19:20 out.txt
+-rw-r--r-- 1 oussama oussama   0 Aug 21 18:50 something.PHP
+-rw-r--r-- 1 oussama oussama   0 Aug 21 18:50 three.txt
+-rw-r--r-- 1 oussama oussama   0 Aug 21 18:50 tow.txt
