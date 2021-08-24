@@ -1,5 +1,5 @@
-function oussama(){
-
+function ousama(){
+hello again 
 cout<<oussama; 
 return 0;
 
